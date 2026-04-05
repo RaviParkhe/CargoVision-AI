@@ -1,0 +1,28 @@
+train: train/images
+val: valid/images
+test: test/images
+
+names: 
+  0: ---- -----
+  1: auto parts
+  2: bags
+  3: bicycle
+  4: car weels
+  5: clohes
+  6: clothes
+  7: fabrics
+  8: lamps
+  9: object
+  10: office supplies
+  11: shoes
+  12: spare parts
+  13: table ware
+  14: table warre
+  15: tableware
+  16: tablware
+  17: tetiles
+  18: texstiles
+  19: textile
+  20: textiles
+  21: tools
+  22: toys
